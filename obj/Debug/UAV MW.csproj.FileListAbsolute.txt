@@ -1,9 +1,0 @@
-C:\Users\devku\source\repos\UAV MW\UAV MW\bin\Debug\UAV MW.exe.config
-C:\Users\devku\source\repos\UAV MW\UAV MW\bin\Debug\UAV MW.exe
-C:\Users\devku\source\repos\UAV MW\UAV MW\bin\Debug\UAV MW.pdb
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV_MW.Properties.Resources.resources
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV MW.csproj.GenerateResource.cache
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV MW.csproj.CoreCompileInputs.cache
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV MW.exe
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV MW.pdb
-C:\Users\devku\source\repos\UAV MW\UAV MW\obj\Debug\UAV_MW.Form1.resources
