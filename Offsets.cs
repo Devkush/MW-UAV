@@ -14,7 +14,7 @@ namespace UAV_MW
         public static ulong BaseAddress = 0x0;
         public static ulong UAVPtr; 
 
-        public static ulong UAV_Offset1 = 0x16CA0FB8;
+        public static ulong UAV_Offset1 = 0x171C4890;
         public static ulong UAV_Offset2 = UAV_Offset1 + 0x20;
         public static ulong UAV_Offset3 = UAV_Offset1 + 0x38;
         public static ulong UAV_Offset4 = UAV_Offset1 + 0x1C;
